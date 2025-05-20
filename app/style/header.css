@@ -1,0 +1,18 @@
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    padding: 12px;
+
+    display: flex;
+    align-items: center;
+
+    
+}
+
+header input{
+    display: none;
+}
+

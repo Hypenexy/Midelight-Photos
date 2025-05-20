@@ -17,7 +17,7 @@ A self-hosted image server and client for managing, viewing, and sharing your ph
 
 - Docker
 
-## If not using Docker
+### If not using Docker
 
 - Node.js & npm
 - A supported database (e.g., PostgreSQL, SQLite)
